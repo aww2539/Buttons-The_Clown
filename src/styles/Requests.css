@@ -1,0 +1,9 @@
+section.serviceRequests ul li {
+    margin: 5px;
+}
+
+.request__delete {
+    background-color: purple;
+    color: blanchedalmond;
+    margin-left: 15px;
+}
